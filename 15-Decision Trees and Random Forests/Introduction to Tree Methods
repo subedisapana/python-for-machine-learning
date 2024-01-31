@@ -1,0 +1,7 @@
+Imagine, you have a friend with whom you go to play badminton every Saturday. But, this friend visits the ground only if the weather is favorable and there are no conflicting commitments. Factors like weather , temperature, Humidity, and wind affects the decision to play badminton.
+
+You have been tracking the environmental factors on the day, your friend came. Now, you have to predict whether your friend will come or not next saturday.
+
+Decision Tree:
+You can create decision tree via through ID3 or random forest.
+While creating a tree, which column becomes the root node can be found out by calculating entropy and information gain of all column.
