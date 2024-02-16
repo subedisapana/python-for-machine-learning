@@ -1,0 +1,7 @@
+Suppose, we have a dataset consisting of two classes, represented by the shapes, triangle and circle on a two-dimensional plane.
+
+Let's say we want to classify these shapes using a linear SVM. A linear SVM tries to find a straight line (or hyperplane in higher dimensions) that separates the circle from triangle with the maximum margin. However, sometimes  straight line cannot effectively seperate the two classes, in this case non-linear SVM.
+
+Support Vector: In SVM, Support vectors are the data points that lie closest to the decision boundary (hyerplane) between different classes. SVM aims to maximize the margin because a larger margin usually indicates a more strong classifier with better generalization to unseen data.
+
+Hyperplane : It is a decision boundary that seperates data points belonging to different classes in a higher- dimensional space. For binary classification, it's a d1 dimensional space. In a 2-D space,it is simply a line.
